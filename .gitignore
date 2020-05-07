@@ -1,0 +1,10 @@
+res://addons/file-editor/
+icons.pngs/
+screenshots/
+user/
+*.import
+fonts/
+.github
+.import
+addons
+debug.log
